@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Hello_Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Ribbon_Consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_API_Dynamic_Filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_API_Zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_Config_Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_Eureka_Server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_Feign_Consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring_Hystrix_server" charset="UTF-8" />
+  </component>
+</project>

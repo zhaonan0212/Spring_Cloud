@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Hello_Server" />
+        <module name="Ribbon_Consumer" />
+        <module name="Spring_API_Dynamic_Filter" />
+        <module name="Spring_API_Zuul" />
+        <module name="Spring_Config_Server" />
+        <module name="Spring_Eureka_Server" />
+        <module name="Spring_Feign_Consumer" />
+        <module name="Spring_Hystrix_server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

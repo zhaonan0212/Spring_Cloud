@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.delta</groupId>
+    <artifactId>Spring_All_Cloud</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Spring_Eureka_Server</module>
+        <module>Hello_Server</module>
+        <module>Ribbon_Consumer</module>
+        <module>Spring_Hystrix_server</module>
+        <module>Spring_Feign_Consumer</module>
+        <module>Spring_API_Zuul</module>
+        <module>Spring_API_Dynamic_Filter</module>
+        <module>Spring_Config_Server</module>
+    </modules>
+
+
+</project>

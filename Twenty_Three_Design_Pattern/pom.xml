@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.delta</groupId>
+    <artifactId>Twenty_Three_Design_Pattern</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Singleton_Pattern</module>
+        <module>Prototype_Pattern</module>
+        <module>FactoryMethod_Pattern</module>
+        <module>AbstractFactory_Pattern</module>
+        <module>Builder_Pattern</module>
+        <module>Proxy_Pattern</module>
+        <module>Adapter_Pattern</module>
+        <module>Bridge_Pattern</module>
+        <module>Decorator_Pattern</module>
+        <module>Facade_Pattern</module>
+        <module>Flyweight_Pattern</module>
+        <module>Composite_Pattern</module>
+        <module>Template Method_Pattern</module>
+        <module>Strategy_Pattern</module>
+        <module>Command_Pattern</module>
+        <module>Chain_of_Responsibility_Pattern</module>
+        <module>State_Pattern</module>
+        <module>Observer_Pattern</module>
+        <module>Mediator_Pattern</module>
+        <module>Iterator_Pattern</module>
+        <module>Visitor_Pattern</module>
+        <module>Memento_Pattern</module>
+        <module>Interpreter_Pattern</module>
+        <module>Template_Method_Pattern</module>
+        <module>sdfsdf</module>
+        <module>zljdslfjsdoifjef5646</module>
+        <module>sdfsdf</module>
+        <module>ArrayAndList</module>
+    </modules>
+
+
+</project>

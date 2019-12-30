@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AbstractFactory_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Adapter_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ArrayAndList" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Bridge_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Builder_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chain_of_Responsibility_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Command_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Composite_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Decorator_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Facade_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FactoryMethod_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Flyweight_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Interpreter_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Iterator_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Mediator_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Memento_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Observer_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Prototype_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Singleton_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/State_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Strategy_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Template_Method_Pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Visitor_Pattern" charset="UTF-8" />
+  </component>
+</project>

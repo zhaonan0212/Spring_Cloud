@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbaf270a-ec06-4b5e-b6e1-82cb18779ff7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Singleton_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Prototype_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/FactoryMethod_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/AbstractFactory_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Builder_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Proxy_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Adapter_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Bridge_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Decorator_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Facade_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Flyweight_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Composite_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Template Method_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Strategy_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Command_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Chain_of_Responsibility_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/State_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Observer_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Mediator_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Iterator_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Visitor_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Memento_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Interpreter_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/Template_Method_Pattern/target/" />
+    <ignored path="$PROJECT_DIR$/sdfsdf/target/" />
+    <ignored path="$PROJECT_DIR$/zljdslfjsdoifjef5646/target/" />
+    <ignored path="$PROJECT_DIR$/ArrayAndList/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1120081780">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="267" />
+          <entry key="xml" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="267" />
+          <entry key="XML" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="16560" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="16560" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Light.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="35" selection-start-line="35" selection-end-line="36" />
+              <folding>
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Command.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/LightHighCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/RemoteControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding>
+                <element signature="e#315#316#0" expanded="true" />
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArrayAndList/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArrayAndList/src/main/java/com/delta/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ArrayAndList/src/main/java/com/delta/Demo02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#117#118#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Application/jdk/src.zip!/java/lang/Thread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/LightOffCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/Soy.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/Whip.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/CondimentDecorator.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/Beverage.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/Component.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/ConcreteConponent.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/Decortor.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/Decorator.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/ConcreteDecorator.java" />
+        <option value="$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/RolesDemo.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Method/ConcreteClass.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Method/TemplateMethodTest.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Method/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/CaffeineBeverage.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/Tea.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/Test.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/Coffee.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/CaffeineBeverage.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/Coffee.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/Tea.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/HookTest.java" />
+        <option value="$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/CaffeineBeverageHook.java" />
+        <option value="$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Travel.java" />
+        <option value="$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Car.java" />
+        <option value="$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Bus.java" />
+        <option value="$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Train.java" />
+        <option value="$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Psesion.java" />
+        <option value="$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Test.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/Order.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/BuyStock.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/SellStock.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/Stock.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/CommandPatternTest.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/Broker.java" />
+        <option value="$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Rectangle.java" />
+        <option value="$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Square.java" />
+        <option value="$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Cricle.java" />
+        <option value="$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Circle.java" />
+        <option value="$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/ShapeMaker.java" />
+        <option value="$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/FacadePatternTest.java" />
+        <option value="$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Shape.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/RemotoControl.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Light.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Command.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/RemoteControl.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/LightOffCommand.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/LightHighCommand.java" />
+        <option value="$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Client.java" />
+        <option value="$PROJECT_DIR$/ArrayAndList/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayAndList/src/main/java/com/delta/Demo01.java" />
+        <option value="$PROJECT_DIR$/ArrayAndList/src/main/java/com/delta/Demo02.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Application/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Application\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Twenty_Three_Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twenty_Three_Design_Pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twenty_Three_Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twenty_Three_Design_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twenty_Three_Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twenty_Three_Design_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twenty_Three_Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twenty_Three_Design_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twenty_Three_Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twenty_Three_Design_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twenty_Three_Design_Pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twenty_Three_Design_Pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayAndList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="delta" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577701648330" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.delta.Hook" />
+      <recent name="com.delta.CGLIBProxy" />
+      <recent name="com.delta.factroy_methods" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\Twenty_Three_Design_Pattern\FactoryMethod_Pattern\src\main\java\com\delta\factroy_methods" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo02">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delta.SimpleRemoteControl.Client" />
+      <module name="Command_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delta.SimpleRemoteControl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommandPatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delta.Order.CommandPatternTest" />
+      <module name="Command_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delta.Order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delta.Demo01" />
+      <module name="ArrayAndList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delta.Demo02" />
+      <module name="ArrayAndList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacadePatternTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.delta.Shape.FacadePatternTest" />
+      <module name="Facade_Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.delta.Shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Twenty_Three_Design_Pattern" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57375" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CommandPatternTest" />
+      <item itemvalue="Application.FacadePatternTest" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Demo01" />
+      <item itemvalue="Application.Demo02" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.FacadePatternTest" />
+        <item itemvalue="Application.CommandPatternTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbaf270a-ec06-4b5e-b6e1-82cb18779ff7" name="Default Changelist" comment="" />
+      <created>1576714138252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576714138252</updated>
+      <workItem from="1576714154024" duration="922000" />
+      <workItem from="1576715534171" duration="6640000" />
+      <workItem from="1576722402761" duration="6000" />
+      <workItem from="1576722417906" duration="40860000" />
+      <workItem from="1577059898781" duration="47327000" />
+      <workItem from="1577343253584" duration="807000" />
+      <workItem from="1577344124670" duration="715000" />
+      <workItem from="1577666641193" duration="525000" />
+      <workItem from="1577670592564" duration="5226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="103028000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.2468017" />
+      <window_info id="Structure" order="1" sideWeight="0.5009597" side_tool="true" weight="0.18496802" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917467" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42514396" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39923224" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32917467" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.18496802" />
+      <window_info id="Structure" order="1" sideWeight="0.5009597" side_tool="true" weight="0.18496802" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917467" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917467" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32917467" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/Espresso.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/HouseBlend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/Mocha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/Soy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/Beverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Drink/CondimentDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/ConcreteConponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/ConcreteDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator_Pattern/src/main/java/com/delta/Roles/RolesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Method/AbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Method/ConcreteClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Method/TemplateMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/CaffeineBeverageHook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/Hook/HookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Travel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Train.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Psesion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy_Pattern/src/main/java/com/delta/Travel/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/SellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/BuyStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/CommandPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/Order/Broker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/ShapeMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/FacadePatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facade_Pattern/src/main/java/com/delta/Shape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/CaffeineBeverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Template_Method_Pattern/src/main/java/com/delta/MakeCoffee/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Light.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" selection-start-line="35" selection-end-line="36" />
+          <folding>
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/LightHighCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/LightOffCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command_Pattern/src/main/java/com/delta/SimpleRemoteControl/RemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayAndList/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Application/jdk/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="193" column="25" lean-forward="true" selection-start-line="193" selection-start-column="25" selection-end-line="193" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayAndList/src/main/java/com/delta/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Application/jdk/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayAndList/src/main/java/com/delta/Demo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AbstractFactory_Pattern</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AbstractFactory_Pattern" />
+        <module name="Adapter_Pattern" />
+        <module name="ArrayAndList" />
+        <module name="Bridge_Pattern" />
+        <module name="Builder_Pattern" />
+        <module name="Chain_of_Responsibility_Pattern" />
+        <module name="Command_Pattern" />
+        <module name="Composite_Pattern" />
+        <module name="Decorator_Pattern" />
+        <module name="Facade_Pattern" />
+        <module name="FactoryMethod_Pattern" />
+        <module name="Flyweight_Pattern" />
+        <module name="Interpreter_Pattern" />
+        <module name="Iterator_Pattern" />
+        <module name="Mediator_Pattern" />
+        <module name="Memento_Pattern" />
+        <module name="Observer_Pattern" />
+        <module name="Prototype_Pattern" />
+        <module name="Proxy_Pattern" />
+        <module name="Singleton_Pattern" />
+        <module name="State_Pattern" />
+        <module name="Strategy_Pattern" />
+        <module name="Template_Method_Pattern" />
+        <module name="Visitor_Pattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sdfsdf" target="1.8" />
+      <module name="TemplateMethod_Pattern" target="1.7" />
+      <module name="zljdslfjsdoifjef5646" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
